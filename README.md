@@ -46,4 +46,8 @@
     - Support Vector Machine (Hyper Plane Model)
     - Isolation Forest (Tree Model)
     - Autoencoder (Neural Network Model)
-- Got to know autoencoder in detail to apply it in anomaly detection in time series.
+- Learnt about **autoencoder** in detail to apply it in anomaly detection in time series. Learning:
+    - Architecture of autoencoder
+    - Loss function of autoencoder
+    - Types of autoencoder
+    - Previewed sample python code for autoencoder
