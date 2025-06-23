@@ -6,11 +6,24 @@
 
 <ins> Onboarding and Introduction </ins>
 - Met with the Plant Monitoring and Reliability team.
-- Set-up company credentials and tools
+- Set-up company credentials and tools.
 - Meeing with manager and mentors:
     - **Mr. Mallikarjun Narayanpur**, <manaa@vestas.com>, Manager, Sub-Module Owner for Plant Monitoring & Reliability
     - **Dr. Rohit Gunerkar**, <rohgn@vestas.com>, Mentor, Lead Engineer in Plant Monitoring & Reliability
-    - **Mr. Manik Singh**, <mksgh@vestas.com>, Mentor, Data Scientist in Plant Monitoring & Reliability 
+    - **Mr. Manik Singh**, <mksgh@vestas.com>, Mentor, Data Scientist in Plant Monitoring & Reliability
+- Completed company learning modules on:
+    - Welcome to Vestas
+    - History, Vision, and Values
+    - An Interactive Experience: What We Do at Vestas
+    - Navigating our Matrix Organisation
+    - Inclusion Powers the Solution
+    - Safety Awareness Induction
+    - Training on Psychological Safety
+    - Code of Conduct
+    - Anti-Sexual Harassment
+    - Activity Based Working
+    - Sustainability
+
 
 <ins> Skill Development </ins>
 - Started crash course in Machine Learning.
