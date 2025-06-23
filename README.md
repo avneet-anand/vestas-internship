@@ -15,3 +15,4 @@
 - Crash course in Machine Learning
 - Shadowed Mr. Narayanpur in official meeting
 - Introduction to software used
+- Introduction and meeting with **Rahul Jacob**, <rjabw@vestas.com>, Head of Product and Customer Operatons. Discussed his work with Scipher.
