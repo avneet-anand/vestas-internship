@@ -42,3 +42,8 @@
 <ins> Monday </ins>
 - Continued with ML crash course.
 - Meeting with Dr. Rohit to discuss non-linear regression models to analyze power quality data.
+- Did research on the following models:
+    - Support Vector Machine (Hyper Plane Model)
+    - Isolation Forest (Tree Model)
+    - Autoencoder (Neural Network Model)
+- Got to know autoencoder in detail to apply it in anomaly detection in time series.
