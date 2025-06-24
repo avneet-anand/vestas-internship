@@ -24,7 +24,6 @@
     - Activity Based Working
     - Sustainability
 
-
 <ins> Skill Development </ins>
 - Started crash course in Machine Learning.
 - Shadowed Mr. Narayanpur in official meeting.
@@ -41,13 +40,15 @@
 
 <ins> Monday </ins>
 - Continued with ML crash course.
-- Meeting with Dr. Rohit to discuss non-linear regression models to analyze power quality data.
-- Did research on the following models:
+- Did research on the following models for catching anomalies in data:
     - Support Vector Machine (Hyper Plane Model)
     - Isolation Forest (Tree Model)
     - Autoencoder (Neural Network Model)
-- Learnt about **autoencoder** in detail to apply it in anomaly detection in time series. Learning:
+- Learnt about **autoencoder** in detail to apply it in anomaly detection in time series. Learnt:
     - Architecture of autoencoder
     - Loss function of autoencoder
     - Types of autoencoder
     - Previewed sample python code for autoencoder
+
+<ins> Tuesday </ins>
+- Meeting with Dr. Rohit to discuss non-linear regression models to analyze power quality data. Touched up on autencoders and how they can help in our case of anomaly detection.
