@@ -33,7 +33,7 @@
     - Goals for my internship
     - Development of soft and technical skills expected over the period of next 2 months
     - Insights on future opportunities.
-- Introduction and meeting with **Mr. Rahul Jacob**, <rjabw@vestas.com>, Head of Product and Customer Operatons. Discussed his work with Scipher.
+- Introduction and meeting with **Mr. Rahul Jacob**, <rjabw@vestas.com>, Head of Product and Customer Operatons. Discussed his work with the Scipher platform and team.
 
 
 ## Week 2
