@@ -51,4 +51,10 @@
     - Previewed sample python code for autoencoder
 
 <ins> Tuesday </ins>
-- Meeting with Dr. Rohit to discuss non-linear regression models to analyze power quality data. Touched up on autencoders and how they can help in our case of anomaly detection.
+- Meeting with Dr. Rohit to discuss non-linear regression models to analyze power quality data:
+    - Touched up on autencoders and how they can help in our case of anomaly detection.
+    - Discussed starter project for analysing anomalies in time series.
+    - Assigned work for developing standard python templates for:
+        - Data statistics
+        - Autoencoder
+        - Decision tree
