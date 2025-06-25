@@ -69,7 +69,7 @@
     - Training room: used to familiarize new employees with the equipment.
     - ICE room: used for VSM (Value Stream Mapping).
     - DMM: learnt about their organisation and division of tasks.
-    - Drive Train and Manufacturing Line.
+    - Drive Train and Assembly Line.
 - Learnt about:
     - Production and transportation costs.
     - Yearly capacity for production.
