@@ -66,13 +66,13 @@
     - **Mr. Ganesh Sukumar**, <gasku@vestas.com>, Data Scientist in Plant Monitoring & Reliability
 - Took a tour of the plant, led by **Mr. Manikandan Eswaran**, <mkdes@vestas.com>, Sr. PEX & Project Engineer in Oragadam Nacelles.
 - Explored:
-    - Training room: used to familiarize new employees with the equipment
-    - ICE room: used for VSM (Value Stream Mapping)
-    - DMM; learnt about their organisation and division of tasks
-    - Drive Train and Manufacturing Line
+    - Training room: used to familiarize new employees with the equipment.
+    - ICE room: used for VSM (Value Stream Mapping).
+    - DMM: learnt about their organisation and division of tasks.
+    - Drive Train and Manufacturing Line.
 - Learnt about:
-    - Production and transportation costs
-    - Yearly capacity for production
-    - Supply chain of materials
-    - Practicalities of the 2 MW and 4 MW turbines
-    - Manufacturing and testing process and their time period
+    - Production and transportation costs.
+    - Yearly capacity for production.
+    - Supply chain of materials.
+    - Practicalities of the 2 MW and 4 MW turbines.
+    - Manufacturing and testing process and their time period.
