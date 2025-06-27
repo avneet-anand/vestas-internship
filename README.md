@@ -86,3 +86,4 @@
     - Adapted sample code to Python 3.13.5 (sample code not supported by Python 3.13.5).
     - Coded a basic autoencoer with 4 inputs and 1 output and trained it on randomly generated data.
     - Employed the basic autoencoder to train it on the excel sheet of data.
+- Participated in company fire drill.
