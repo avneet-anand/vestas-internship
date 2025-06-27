@@ -91,6 +91,7 @@
 <ins> Friday </ins>
 - Completed autoencoder template, [`autoencoder_template.ipynb`](./autoencoder_template.ipynb), began training it on different data sets.
 - Completed a template for finding the basic data statistics in a data file, [`statistics_template.ipynb`](./statistics_template.ipynb).
+- Started working on decision-tree model, [`census_income_decision_tree.ipynb`](./census_income_decision_tree.ipynb), for the given data set: [`census income data`](./census%20income%20data/)
 
 
 ## Week 3
