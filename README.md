@@ -68,11 +68,21 @@
 - Explored:
     - Training room: used to familiarize new employees with the equipment.
     - ICE room: used for VSM (Value Stream Mapping).
-    - DMM: learnt about their organisation and division of tasks.
+    - DMM (Daily Management Meeting) board: learnt about their organisation and division of tasks.
     - Drive Train and Assembly Line.
 - Learnt about:
+    - The scale of the factory.
     - Production and transportation costs.
     - Yearly capacity for production.
     - Supply chain of materials.
     - Practicalities of the 2 MW and 4 MW turbines.
     - Manufacturing and testing process and their time period.
+- After coming back, began looking for a base for Autoencoder:
+    - Browsed GitHub repositories and GeeksforGeeks for sample code.
+    - Looked at other ML models that could be applied to the problem.
+
+<ins> Thursday </ins>
+- Started working on Autoencoder to predict output of given data (excel sheet):
+    - Adapted sample code to Python 3.13.5 (sample code not supported by Python 3.13.5).
+    - Coded a basic autoencoer with 4 inputs and 1 output and trained it on randomly generated data.
+    - Employed the basic autoencoder to train it on the excel sheet of data.
