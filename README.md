@@ -87,3 +87,7 @@
     - Coded a basic autoencoer with 4 inputs and 1 output and trained it on randomly generated data.
     - Employed the basic autoencoder to train it on the excel sheet of data.
 - Participated in company fire drill.
+
+<ins> Friday </ins>
+- Completed autoencoder template, [`autoencoder_template.ipynb`](./autoencoder_template.ipynb), began training it on different data sets.
+- Completed a template for finding the basic data statistics in a data file, [`statistics_template.ipynb`](./statistics_template.ipynb).
