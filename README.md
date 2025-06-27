@@ -91,3 +91,6 @@
 <ins> Friday </ins>
 - Completed autoencoder template, [`autoencoder_template.ipynb`](./autoencoder_template.ipynb), began training it on different data sets.
 - Completed a template for finding the basic data statistics in a data file, [`statistics_template.ipynb`](./statistics_template.ipynb).
+
+
+## Week 3
