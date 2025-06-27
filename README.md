@@ -67,7 +67,7 @@
 - Took a tour of the plant, led by **Mr. Manikandan Eswaran**, <mkdes@vestas.com>, Sr. PEX & Project Engineer in Oragadam Nacelles.
 - Explored:
     - Training room: used to familiarize new employees with the equipment.
-    - ICE room: used for VSM (Value Stream Mapping).
+    - VSM (Value Stream Mapping) room.
     - DMM (Daily Management Meeting) board: learnt about their organisation and division of tasks.
     - Drive Train and Assembly Line.
 - Learnt about:
