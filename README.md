@@ -7,7 +7,7 @@
 <ins> Onboarding and Introduction </ins>
 - Met with the Plant Monitoring and Reliability team.
 - Set-up company credentials and tools.
-- Meeing with manager and mentors:
+- Meeting with manager and mentors:
     - **Mr. Mallikarjun Narayanpur**, <manaa@vestas.com>, Manager, Sub-Module Owner for Plant Monitoring & Reliability
     - **Dr. Rohit Gunerkar**, <rohgn@vestas.com>, Mentor, Lead Engineer in Plant Monitoring & Reliability
     - **Mr. Manik Singh**, <mksgh@vestas.com>, Mentor, Data Scientist in Plant Monitoring & Reliability
@@ -90,8 +90,10 @@
 
 <ins> Friday </ins>
 - Completed autoencoder template, [`autoencoder_template.ipynb`](./autoencoder_template.ipynb), began training it on different data sets.
-- Completed a template for finding the basic data statistics in a data file, [`statistics_template.ipynb`](./statistics_template.ipynb).
+- Completed a template for finding the basic data statistics in a data file and their visualizations, [`statistics_template.ipynb`](./statistics_template.ipynb).
 - Started working on decision-tree model, [`census_income_decision_tree.ipynb`](./census_income_decision_tree.ipynb), for the given data set: [`census income data`](./census%20income%20data/)
 
 
 ## Week 3
+
+<ins> Monday </ins>
