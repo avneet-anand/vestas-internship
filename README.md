@@ -26,7 +26,7 @@
 
 <ins> Skill Development </ins>
 - Started crash course in Machine Learning.
-- Shadowed Mr. Narayanpur in official meeting.
+- Shadowed Mr. Mallik in official meeting.
 - Introduction to software used ---
 - Meeting with **Mr. Navin B**, <nabib@vestas.com>, Lead P&C Business Partner for APAC. Discussed:
     - The work culture at Vestas
@@ -97,3 +97,15 @@
 ## Week 3
 
 <ins> Monday </ins>
+- Meeting with Dr. Rohit, discussed:
+    - Progress up until now and next steps
+    - How to make the autoencoder better
+    - Data visualizations required
+- Continued working on autoencoder:
+    - Began testing on other sheets in the data file.
+    - Tried to improve performance by adding more layers in the neural network, didn't work.
+
+<ins> Tuesday </ins>
+- Tried to fix the autoencoder by changing learning rate and epochs to fit the larger number of layers.
+- When that didn't work, reverted back to the original (most efficient) model.
+- Began analysing the visualizations to see where the model was going wrong with its predictions.
