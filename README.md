@@ -113,3 +113,4 @@
 <ins> Wednesday </ins>
 - Worked on visualizing autoencoder predictions.
 - Explored GeeksForGeeks to understand R<sup>2</sup> in regression models like this one and how to visualize it.
+- Completed working on testing the autoencoder, [`autoencoder_testing.ipynb`](./autoencoder_testing.ipynb). Noticed some inconsitency in results; contacted Dr. Rohit and Mr. Manik and scheduled a meeting to discuss the issue.
