@@ -109,3 +109,7 @@
 - Tried to fix the autoencoder by changing learning rate and epochs to fit the larger number of layers.
 - When that didn't work, reverted back to the original (most efficient) model.
 - Began analysing the visualizations to see where the model was going wrong with its predictions.
+
+<ins> Wednesday </ins>
+- Worked on visualizing autoencoder predictions.
+- Explored GeeksForGeeks to understand R<sup>2</sup> in regression models like this one and how to visualize it.
