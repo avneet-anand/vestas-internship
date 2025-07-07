@@ -114,3 +114,18 @@
 - Worked on visualizing autoencoder predictions.
 - Explored GeeksForGeeks to understand R<sup>2</sup> in regression models like this one and how to visualize it.
 - Completed working on testing the autoencoder, [`autoencoder_testing.ipynb`](./autoencoder_testing.ipynb). Noticed some inconsitency in results; contacted Dr. Rohit and Mr. Manik and scheduled a meeting to discuss the issue.
+
+<ins> Thursday </ins>
+- Attempted to make the autoencoder model work with more consistency.
+- Meeting with Dr. Rohit and Mr. Manik to discuss inconsistency in results.
+- Made a list of improvements to be made and also took up recommendation of looking in AutoML models.
+
+<ins> Friday </ins>
+- Studied up on AutoML models
+
+
+## Week 4
+
+<ins> Monday </ins>
+- Continued studying AutoML models
+- Meeting with Dr. Rohit and Mr. Manik to discuss --
