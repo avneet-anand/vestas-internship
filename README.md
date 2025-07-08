@@ -128,4 +128,10 @@
 
 <ins> Monday </ins>
 - Continued studying AutoML models
-- Meeting with Dr. Rohit and Mr. Manik to discuss --
+- Meeting with Dr. Rohit and Mr. Manik to discuss progression in work.
+    - Discussed current autoencoder: [`autoencoder_testing.ipynb`](./autoencoder_testing.ipynb).
+    - Assigned work on in-depth EDA of data, began modifying `statistics_template.ipynb` for that.
+    - Discussed future steps to complete project.
+
+<ins> Tuesday </ins>
+- Finished working on `statistics_template.ipynb`, renamed it [`data_eda_template.ipynb`](./data_eda_template.ipynb)
