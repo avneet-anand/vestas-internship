@@ -134,4 +134,15 @@
     - Discussed future steps to complete project.
 
 <ins> Tuesday </ins>
-- Finished working on `statistics_template.ipynb`, renamed it [`data_eda_template.ipynb`](./data_eda_template.ipynb)
+- Finished working on `statistics_template.ipynb`, renamed it [`data_eda_template.ipynb`](./data_eda_template.ipynb).
+- Meeting with Mr. Manik to discuss results of data's EDA.
+    - Discussed outliers and how to deal with them
+    - Went over normality of data
+    - Recommendations on learning:
+        - RANSAC
+        - MLflow
+        - Normalization of data
+
+<ins> Wednesday </ins>
+- Worked on improving EDA by visualizing outliers better.
+- Started learning RANSAC and MLflow and their application.
