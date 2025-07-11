@@ -146,3 +146,11 @@
 <ins> Wednesday </ins>
 - Worked on improving EDA by visualizing outliers better.
 - Started learning RANSAC and MLflow and their application.
+
+<ins> Thursday </ins>
+- Learnt RANSAC code and applied it to the new regression model.
+- Learnt to apply z-scoring for identifying outliers with RANSAC.
+
+<ins> Friday </ins>
+- Completed a linear regression model: [`linear_regression_model.ipynb`](./linear_regression_model.ipynb).
+- Visualized difference in predicted data and actual results.
