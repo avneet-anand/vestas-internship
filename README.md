@@ -154,3 +154,25 @@
 <ins> Friday </ins>
 - Completed a linear regression model: [`linear_regression_model.ipynb`](./linear_regression_model.ipynb).
 - Visualized difference in predicted data and actual results.
+
+
+## Week 5
+
+<ins> Monday </ins>
+- Meeting with Dr. Rohit to discuss the actual data set `PQM dataset.xlsx`.
+    - Discussed the type of data I'm dealing with
+    - Discussed the model required
+    - Discussed the goal of the model and how to train it
+- Began working on EDA of `PQM dataset.xlsx`.
+
+<ins> Tuesday </ins>
+- Completed EDA of `Active Power_1day` and `Active Power_1 hour`.
+- Identified outiers using z-scoring.
+- Visualized the time series.
+
+<ins> Wednesday </ins>
+- Worked on linear regression model for `Active Power_1 hour` data: [`regression_active_power_1hour.ipynb`](./regression_active_power_1hour.ipynb).
+- Contacted Dr. Rohit to clear up input data format.
+- Cleaned data and coverted to arrays for **Sliding Window Method** for **Time Series Forcasting**.
+- Trained and tested the model.
+- Visualized predicted and actual data against each other.
