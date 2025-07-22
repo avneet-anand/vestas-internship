@@ -176,3 +176,23 @@
 - Cleaned data and coverted to arrays for **Sliding Window Method** for **Time Series Forcasting**.
 - Trained and tested the model.
 - Visualized predicted and actual data against each other.
+
+<ins> Thursday </ins>
+- Worked on random forest regressor model for `Frequency_1 hrs` data: [`regression_frequency_1hour.ipynb`](./regression_frequency_1hour.ipynb)
+- Encountered trouble with R<sup>2</sup> value and contacted Dr. Rohit and Mr. Manik about it.
+- Also worked on random forest regresssor model for `RMS_1hr` data: [`regression_rms_1hr.ipynb`](./regression_rms_1hr.ipynb)
+
+<ins> Friday </ins>
+- Continued working with data, worked on `Active Power_1day` data: [`regression_active power_1 day.ipynb`](./regression_active%20power_1%20day.ipynb)
+- Met with Dr. Rohit and Mr. Manik to revew work and discuss resolves for certain issues.
+
+
+## Week 6
+
+<ins> Monday </ins>
+- Worked on `Frequency_1Min` data: [`regression_frequency_1 min.ipynb`](./regression_frequency_1%20min.ipynb)
+- Worked on `RMS_10Min` data: [`regression_rms_10.min.ipynb`](./eda_rms_10min.ipynb)
+
+<ins> Tuesday </ins>
+- Worked on improving the `regression_fequency_1 min.ipynb` model.
+- Meeting with Dr. Rohit to review work.
