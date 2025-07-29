@@ -196,3 +196,26 @@
 <ins> Tuesday </ins>
 - Worked on improving the `regression_fequency_1 min.ipynb` model.
 - Meeting with Dr. Rohit to review work.
+
+<ins> Wednesday </ins>
+- Meeting with Dr. Rohit to discuss progession of work.
+- Went over all the models and their R<sup>2</sup> values.
+- Discussed next steps in testing the model before drafting of the final report.
+
+<ins> Thursday </ins>
+- Meeting with Dr. Rohit to discuss which models need to be tested and with what data.
+- Established a baseline for desirable results.
+
+<ins> Friday </ins>
+- Meeting with Dr. Rohit to go over validation data set.
+- Was provided validation data set.
+- Began testing the model and the R<sup>2</sup> value was too low so started modifying the hyperparameters to improve it.
+
+## Week 7
+
+<ins> Monday </ins>
+- Better results in validating the model, began fine-tuning the small inaccuracies.
+
+<ins> Tuesday </ins>
+- Continued to work on fine-tuning the model.
+- Began drafting a base template for the report.
