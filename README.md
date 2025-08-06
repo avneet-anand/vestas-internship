@@ -219,3 +219,14 @@
 <ins> Tuesday </ins>
 - Continued to work on fine-tuning the model.
 - Began drafting a base template for the report.
+
+<ins> Wednesday </ins>
+- Had a meeting with Dr. Rohit on fixing the inaccuracies of the model.
+- Agreed on truncating data file to make results better.
+
+<ins> Thursday </ins>
+- Continued working to make model better.
+- Continued working on the final report.
+
+<ins> Friday </ins>
+- Continued working on report.
